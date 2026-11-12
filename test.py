@@ -1,0 +1,2 @@
+print("Janez")
+print("Novak")
